@@ -1,2 +1,3 @@
+this is the new first line
 this file makes no sense
 but here I do change the file
